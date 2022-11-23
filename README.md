@@ -104,7 +104,7 @@ else if(SensorValue>=500)
 
 
 **
-## Simulation output:
+**Simulation output:
 
 
 
