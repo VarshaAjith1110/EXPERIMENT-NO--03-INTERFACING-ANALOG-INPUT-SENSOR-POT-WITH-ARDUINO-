@@ -95,6 +95,7 @@ else if(SensorValue>=500)
 
 
 
+~~~
 
 
 
@@ -102,16 +103,14 @@ else if(SensorValue>=500)
 
 
 
-
-**
-**Simulation output:
+# Simulation output:
 
 
 
 ![vr3](https://user-images.githubusercontent.com/94222288/203463038-2187158a-80df-4e46-b328-f92a2086f836.png)
 ![vr4](https://user-images.githubusercontent.com/94222288/203463085-99f4002e-d3fe-4dba-bb85-0480f1123422.png)
 
-
+![output](RB03.png)
 
 
 
